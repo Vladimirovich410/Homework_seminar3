@@ -56,7 +56,6 @@
 // double Lenght(double X1, double Y1, double Z1, double X2, double Y2, double Z2)
 // {
 //     return Math.Round(Math.Sqrt(Math.Pow((X1 - X2),2) + Math.Pow((Y1 - Y2),2) + Math.Pow((Z1 - Z2),2)), 2);
-// // double d =Math.Sqrt(Math.Pow((X2-X1),2)+Math.Pow((Y2-Y1),2));
 // }
 // Console.Write("Расстояние между заданными точками: ");
 // Console.Write(Lenght(x1, y1, z1, x2, y2, z2));
